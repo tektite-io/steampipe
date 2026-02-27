@@ -1,3 +1,7 @@
+## v2.4.0 [2026-02-27]
+_Whats new_
+- Compiled with Go 1.26.
+
 ## v2.3.6 [2026-02-20]
 _Bug fixes_
 - Fix `date` and `timestamptz` display formatting in query results. ([#4450](https://github.com/turbot/steampipe/issues/4450))
